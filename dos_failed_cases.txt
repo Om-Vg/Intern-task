@@ -1,0 +1,20 @@
+Test Case 5 - 
+ Request Time: 13:10:56.453, Response Time: 13:11:16.637, Accurate DOS - False, Difference in ms = 184000
+Test Case 19 - 
+ Request Time: 13:11:17.640, Response Time: 13:11:20.879, Accurate DOS - False, Difference in ms = 239000
+Test Case 29 - 
+ Request Time: 13:11:21.886, Response Time: 13:11:25.539, Accurate DOS - False, Difference in ms = 653000
+Test Case 204 - 
+ Request Time: 13:11:37.175, Response Time: 13:11:41.881, Accurate DOS - False, Difference in ms = 706000
+Test Case 415 - 
+ Request Time: 13:11:56.931, Response Time: 13:12:17.097, Accurate DOS - False, Difference in ms = 166000
+Test Case 465 - 
+ Request Time: 13:12:20.642, Response Time: 13:12:23.889, Accurate DOS - False, Difference in ms = 247000
+Test Case 784 - 
+ Request Time: 13:12:47.109, Response Time: 13:12:50.246, Accurate DOS - False, Difference in ms = 137000
+Test Case 1283 - 
+ Request Time: 13:13:23.450, Response Time: 13:13:26.701, Accurate DOS - False, Difference in ms = 251000
+Test Case 1395 - 
+ Request Time: 13:13:36.255, Response Time: 13:13:42.335, Accurate DOS - False, Difference in ms = 80000
+Test Case 1414 - 
+ Request Time: 13:13:44.187, Response Time: 13:13:48.043, Accurate DOS - False, Difference in ms = 856000
